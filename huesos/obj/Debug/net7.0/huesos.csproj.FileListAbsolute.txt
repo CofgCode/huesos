@@ -1,0 +1,14 @@
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.GeneratedMSBuildEditorConfig.editorconfig
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.AssemblyInfoInputs.cache
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.AssemblyInfo.cs
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.csproj.CoreCompileInputs.cache
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\bin\Debug\net7.0\huesos.exe
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\bin\Debug\net7.0\huesos.deps.json
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\bin\Debug\net7.0\huesos.runtimeconfig.json
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\bin\Debug\net7.0\huesos.dll
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\bin\Debug\net7.0\huesos.pdb
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.dll
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\refint\huesos.dll
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.pdb
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\huesos.genruntimeconfig.cache
+D:\video\Lean\Master-CSharp-Microservicios\Code\huesos\huesos\obj\Debug\net7.0\ref\huesos.dll
